@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP LT8612EUDE#PBF
+D LINEAR TECHNOLOGY - LT8612EUDE#PBF - DC-DC CONV, BUCK, ADJ, 2.2MHZ, QFN-28
+K
+F 
+$ENDCMP
+#
+$CMP LTC3632EMS8E#TRPBF
+D Conv DC-DC 4.5V to 50V Synchronous Step Down Single-Out 0.8V to 50V 0.02A Automotive 8-Pin MSOP EP T
+K
+F https://www.arrow.com/en/products/ltc3632ems8etrpbf/analog-devices
+$ENDCMP
+#
+$CMP LT3081ER#PBF
+D 1.5A Single Resistor Rugged Linear Regulator with Monitors
+K
+F http://cds.linear.com/docs/en/datasheet/3081fc.pdf
+$ENDCMP
+#
+$CMP LT3092EST#PBF
+D Programmable Current Source 200mA SOT223 Linear Technology LT3092EST#PBF Programmable Current Source, 3-Pin SOT-223
+K
+F 
+$ENDCMP
+#
+#End Doc Library

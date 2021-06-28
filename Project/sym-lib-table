@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LT3081_powerSupply-rescue)(type Legacy)(uri ${KIPRJMOD}/LT3081_powerSupply-rescue.lib)(options "")(descr ""))
+)
